@@ -6,6 +6,7 @@ package com.codewithkarthik.arrays;
 //2.Use nested for loop to keep track.
 //3.Swap the elements if the first element is greater than
 //the second element.
+//new
 public class BubbleSort {
 
 	public static void main(String[] args) {
